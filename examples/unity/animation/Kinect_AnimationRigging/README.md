@@ -6,4 +6,4 @@
 
 ## Requirements
 * Unity 2020.2.x
-* Animation Rigging 1.0.3
+* [Animation Rigging Package 1.0.3](https://docs.unity3d.com/Packages/com.unity.animation.rigging@1.0/manual/index.html) (Install from Package Manager)
