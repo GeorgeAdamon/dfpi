@@ -1,5 +1,5 @@
 # Very Simple Character Rig & VFX Emission
-
+![](img/cover.png)
 ## Requirements
 * Unity 2020.2.5 +
 * High Definition Render Pipeline 10.3.2
