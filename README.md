@@ -29,4 +29,4 @@ Example Unity Projects
 * [**Unity-Arduino Communication**](https://github.com/dominik-zisch/UnityArduinoComms)
 * [**Visual Effects Graph Examples**](https://github.com/GeorgeAdamon/dfpi/tree/master/examples/unity/vfx)
 * [**Real-time Motion Capture Examples**](https://github.com/UCL/dfpi/tree/master/examples/unity/vfx/VFX_MotionCapture_Samples)
-* [**Non-Linear Animation Examples**](https://github.com/GeorgeAdamon/dfpi/tree/master/examples/unity/animation)
+* [**Animation Examples**](https://github.com/GeorgeAdamon/dfpi/tree/master/examples/unity/animation)
