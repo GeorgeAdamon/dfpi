@@ -14,7 +14,7 @@ _This repository holds the coding resources and teaching material curated by the
 Workshop Resources
 ---
 ### 2021
-- [**Pathway 2 Unity Workshop 02 - Arduino & VFX Graph**](/workshops/unity/2021_pathway2_workshop_01)
+- [**Pathway 2 Unity Workshop 02 - Arduino & VFX Graph**](/workshops/unity/2021_pathway2_workshop_02)
 - [**Pathway 2 Unity Workshop 01 - What a Mesh!**](/workshops/unity/2021_pathway2_workshop_01)
 - [**Unity Workshop - Quantum Magick**](/workshops/unity/2021_quantum_magick)
 ### 2020
