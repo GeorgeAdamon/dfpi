@@ -24,7 +24,7 @@ Code Snippets
 ---
 * [**Easy Topological Graphs in C#**](https://github.com/GeorgeAdamon/dfpi/blob/master/snippets/QuickGraphUtility.cs)
 
-Example Unity Projects
+Sample Unity Projects
 ---
 * [**Unity-Arduino Communication**](https://github.com/dominik-zisch/UnityArduinoComms)
 * [**Visual Effects Graph Examples**](https://github.com/GeorgeAdamon/dfpi/tree/master/examples/unity/vfx)
