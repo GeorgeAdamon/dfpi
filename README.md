@@ -20,13 +20,13 @@ Workshop Resources
 ### 2020
 * [**Unity Workshop - Habits & Habitats**](/workshops/unity/2020_habits_habitats)
 
-Code Snippets
----
-* [**Easy Topological Graphs in C#**](https://github.com/GeorgeAdamon/dfpi/blob/master/snippets/QuickGraphUtility.cs)
-
 Sample Unity Projects
 ---
 * [**Unity-Arduino Communication**](https://github.com/dominik-zisch/UnityArduinoComms)
 * [**Visual Effects Graph Examples**](https://github.com/GeorgeAdamon/dfpi/tree/master/examples/unity/vfx)
 * [**Real-time Motion Capture Examples**](https://github.com/UCL/dfpi/tree/master/examples/unity/vfx/VFX_MotionCapture_Samples)
 * [**Animation Examples**](https://github.com/GeorgeAdamon/dfpi/tree/master/examples/unity/animation)
+
+Code Snippets
+---
+* [**Easy Topological Graphs in C#**](https://github.com/GeorgeAdamon/dfpi/blob/master/snippets/QuickGraphUtility.cs)
