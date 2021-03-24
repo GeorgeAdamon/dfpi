@@ -14,18 +14,19 @@ _This repository holds the coding resources and teaching material curated by the
 Workshop Resources
 ---
 ### 2021
+- [**Pathway 2 Unity Workshop 02 - Arduino & VFX Graph**](/workshops/unity/2021_pathway2_workshop_02)
 - [**Pathway 2 Unity Workshop 01 - What a Mesh!**](/workshops/unity/2021_pathway2_workshop_01)
 - [**Unity Workshop - Quantum Magick**](/workshops/unity/2021_quantum_magick)
 ### 2020
 * [**Unity Workshop - Habits & Habitats**](/workshops/unity/2020_habits_habitats)
 
-Code Snippets
----
-* [**Easy Topological Graphs in C#**](https://github.com/GeorgeAdamon/dfpi/blob/master/snippets/QuickGraphUtility.cs)
-
-Example Unity Projects
+Sample Unity Projects
 ---
 * [**Unity-Arduino Communication**](https://github.com/dominik-zisch/UnityArduinoComms)
 * [**Visual Effects Graph Examples**](https://github.com/GeorgeAdamon/dfpi/tree/master/examples/unity/vfx)
 * [**Real-time Motion Capture Examples**](https://github.com/UCL/dfpi/tree/master/examples/unity/vfx/VFX_MotionCapture_Samples)
-* [**Non-Linear Animation Examples**](https://github.com/GeorgeAdamon/dfpi/tree/master/examples/unity/animation)
+* [**Animation Examples**](https://github.com/GeorgeAdamon/dfpi/tree/master/examples/unity/animation)
+
+Code Snippets
+---
+* [**Easy Topological Graphs in C#**](https://github.com/GeorgeAdamon/dfpi/blob/master/snippets/QuickGraphUtility.cs)
