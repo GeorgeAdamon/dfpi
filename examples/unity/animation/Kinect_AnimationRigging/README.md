@@ -5,5 +5,5 @@
 * This project includes the old secret Kinect plugin for Unity, which you can find [here](http://go.microsoft.com/fwlink/?LinkId=513177), and is also included as a .zip file inside the project, just in case.
 
 ## Requirements
-* Unity 2020.2.x
-* Animation Rigging 1.0.3
+* Unity 2020.2.5 +
+* [Animation Rigging Package 1.0.3](https://docs.unity3d.com/Packages/com.unity.animation.rigging@1.0/manual/index.html) (Install from Package Manager)
