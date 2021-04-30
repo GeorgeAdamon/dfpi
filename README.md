@@ -30,3 +30,4 @@ Sample Unity Projects
 Code Snippets
 ---
 * [**Easy Topological Graphs in C#**](https://github.com/GeorgeAdamon/dfpi/blob/master/snippets/QuickGraphUtility.cs)
+* [**Unity Sampling Utility**](https://github.com/UCL/dfpi/blob/master/snippets/SamplingUtility.cs)
