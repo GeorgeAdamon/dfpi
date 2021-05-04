@@ -16,7 +16,6 @@ public class SceneChangeAnimationTrigger : MonoBehaviour
 
     void Update()
     {
-       Transform
         if (Input.GetKey(KeyCode.Space)) animator.SetTrigger(triggerName);
     }
 }
