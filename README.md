@@ -31,3 +31,4 @@ Code Snippets
 ---
 * [**Easy Topological Graphs in C#**](https://github.com/GeorgeAdamon/dfpi/blob/master/snippets/QuickGraphUtility.cs)
 * [**Unity Sampling Utility**](https://github.com/UCL/dfpi/blob/master/snippets/SamplingUtility.cs)
+* [**Unity Terrain to .obj Mesh Tool**](https://github.com/UCL/dfpi/blob/master/snippets/ExportTerrain.cs)
