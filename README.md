@@ -22,6 +22,7 @@ Workshop Resources
 
 Sample Unity Projects
 ---
+* [**Oculus Quest Starter Project**](https://github.com/UCL/dfpi/tree/master/examples/unity/vr/OculusQuest/OculusQuest-StartedProject)
 * [**Unity-Arduino Communication**](https://github.com/dominik-zisch/UnityArduinoComms)
 * [**Visual Effects Graph Examples**](https://github.com/GeorgeAdamon/dfpi/tree/master/examples/unity/vfx)
 * [**Real-time Motion Capture Examples**](https://github.com/UCL/dfpi/tree/master/examples/unity/vfx/VFX_MotionCapture_Samples)
