@@ -30,4 +30,4 @@ Once downloaded, unzip it and place the whole folder in this location:
 `C:\Program Files\Unity\Hub\Editor\YOUR UNITY VERSION\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\platforms`
 
 For example, if you are using Unity 2020.3.9f1, this path will be:
-``C:\Program Files\Unity\Hub\Editor\2020.3.9f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\platforms`
+`C:\Program Files\Unity\Hub\Editor\2020.3.9f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\platforms`
