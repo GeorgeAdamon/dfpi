@@ -8,7 +8,10 @@
  ---
  
  It uses the **Universal Render Pipeline** and includes all the **Oculus Integration Package Modules**.
- You probably won't need most of them (like Platform and LipSync, but they are included anyway)
+ You probably won't need most of them (like Platform and LipSync, but they are included anyway).  
+ 
+ In your actual projects only the VR project is necessary. You can **Delete** all others and save a lot of space and build times.
+ ![](../img/keep.png)
  
  --- 
  
