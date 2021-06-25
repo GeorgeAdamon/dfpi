@@ -1,5 +1,7 @@
 # Oculus Quest Starter Project
  
+![](../img/success.png)
+
  ## What is this?
  This is a very simple Unity project that Builds & Runs succesfully on the Oculus Quest (hopefully on the Oculus Quest 2 too)  
  
@@ -15,9 +17,11 @@
  For full walkthrough, see [here](https://developer.oculus.com/documentation/unity/unity-gs-overview/
 )
 
----
+## How to Build?
 
-If you get this error when trying to build:  
+![](../img/build.png)
+
+### If you get this error when trying to build:  
 
 ![](../img/SDK-Not-Found.png)
 
@@ -31,3 +35,5 @@ Once downloaded, unzip it and place the whole folder in this location:
 
 For example, if you are using Unity 2020.3.9f1, this path will be:
 `C:\Program Files\Unity\Hub\Editor\2020.3.9f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\platforms`
+
+Then **Restart Unity & Try to Build Again**
