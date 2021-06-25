@@ -18,4 +18,4 @@
 ---
 
 If you get this error when trying to build,
-[](/img/)
+[](../img/SDK-Not-Found.png)
